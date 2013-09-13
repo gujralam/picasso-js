@@ -1,0 +1,20 @@
+README
+
+Developed by MauroEldritch
+
+Just run "node Picasso.js test" to see a demo.
+
+If you want to install it to your project, import it into your project like
+
+var picasso = require("./Picasso.js");
+
+And then, whenever you want to write in colors, just do as follows:
+example usage:
+console.log(red + "I want a red font" + white);
+Why white? I'm just assuming that's your default output color, if not, 
+just set another color! If you do not reset it to normal color, the output
+will continue to use the last color you have set.
+
+Regards.
+
+http://eldritch.com.ar
